@@ -1,0 +1,12 @@
+export { authRouter } from "./auth.routes.js";
+export { accountRouter } from "./account.routes.js";
+export { audiobookRouter } from "./audiobook.routes.js";
+export { cartRouter } from "./cart.routes.js";
+export { chapterRouter } from "./chapter.routes.js";
+export { paypalRouter } from "./paypal.routes.js";
+export { genreRouter } from "./genre.routes.js";
+export { purchaseRouter } from "./purchase.routes.js";
+export { ratingRouter } from "./rating.routes.js";
+export { searchRouter } from "./search.routes.js";
+export { userRouter } from "./user.routes.js";
+export { wishlistRouter } from "./wishlist.routes.js";

@@ -1,0 +1,5 @@
+{
+	"execMap": {
+		"ts": "node -e 'console.clear();' && npx ts-node --esm"
+	}
+}
